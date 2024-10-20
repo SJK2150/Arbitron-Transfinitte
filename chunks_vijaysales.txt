@@ -1,0 +1,36 @@
+context_chunks_channel = [
+  
+]
+
+context_chunks_product = [
+  
+]
+
+context_chunks_supply_chain = [
+  
+]
+
+context_chunks_customer_segment = [
+  """
+CHANNEL:
+Entity: retail, Context: consumer electroni c retail. The rating further derives strength from the continuous improvement in the financial risk
+Entity: store, Context: The rating further  considers the model of store ownership, with a total store count of 131 stores, of which 79 being
+Entity: store, Context: The rating further  considers the model of store ownership, with a total store count of 131 stores, of which 79 being
+Entity: online, Context: dominating the market via online and offline mode. This apart , the sector continues to remain interest rate - and
+Entity: retail, Context: electronic goods industry. Under his guidance, VSIPL grew as a successful multi brand electronic retail chain. The
+Entity: retail, Context: The electronic retail sector is primarily dominated  by organi sed market participants, online retailers, and
+Entity: online, Context: The electronic retail sector is primarily dominated  by organi sed market participants, online retailers, and
+Entity: retail, Context: consumer electronic retail stores . Consequently, a competitive environment prevails throughout the industry. This
+Entity: retail, Context: obsolescence of older models.  Hence, it becomes necessary for the  electronic retail chains to maintain an optimum
+Entity: Retail, Context: Retail
+PRODUCT:
+Entity: appliances, Context: large appliances.
+Entity: appliances, Context: home appliances such as air conditioners, televisions, washing machines, irons, dryers, etc, which are exclusively
+Entity: electronics, Context: digital electronics , driven by increased  reliance on digital gadgets, increased  consumer spending by way of readily
+Entity: electronics, Context: Consumer discretionary  Consumer durables  Consumer durables  Consumer electronics
+SUPPLY_CHAIN:
+Entity: distribution, Context: products primarily  through V SIPL and is engaged in the trading and distribution of consumer durable products  and
+CUSTOMER_SEGMENT:
+Entity: customers, Context: situation ultimately results in customers having significant bargaining power, leaving retailers with minimal profit
+"""
+]

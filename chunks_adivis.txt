@@ -1,0 +1,71 @@
+context_chunks_usability = [
+  
+]
+
+context_chunks_channel = [
+  
+]
+
+context_chunks_product = [
+  
+]
+
+context_chunks_customer_segment = [
+  
+]
+
+context_chunks_after_sales = [
+  
+]
+
+context_chunks_supply_chain = [
+  
+]
+
+context_chunks_affordability = [
+  """
+USABILITY:
+Entity: satisfaction, Context: satisfaction  are driving  strong  financial  performance,  positioning  us for
+CHANNEL:
+Entity: Store, Context: Summer season in Q1 resulted in revenue growth of 39% YoY; AC growth 56% Opened five new Stores, Store count touched 150
+Entity: store, Context: Avg store size
+Entity: Retail, Context: Retail footprint as
+Entity: Retail, Context: Outlets100% Retail
+Entity: Store, Context: Revenue (Cr.) Store Count
+Entity: store, Context: store in  Patna,
+Entity: Store, Context: Store Unit Economics At A Glance
+Entity: Store, Context: Average Capex per Store
+Entity: Store, Context: Average Working Capital per Store
+Entity: Store, Context: Average Store Level Break Even
+Entity: store, Context: Low store -level employee cost
+Entity: store, Context: Average rent of Rs 2 – 2.25 lacs p.m/store.
+Entity: Store, Context: Zero Store Closure since Inception
+Entity: Retail, Context: Powering India's Retail Surge: Driving Consumer
+Entity: Retail, Context: 1.673.57Overall Consumer Electronics Industry Organised ShareOrganised Sector to Grow Faster than Overall Consumer Electronics Retail Industry
+Entity: Retail, Context: Consumer  Electronics  Retail  and
+Entity: Retail, Context: Electronics  Retail .
+Entity: Store, Context: In-Store Photo Gallery
+PRODUCT:
+Entity: Electronics, Context: Electronics Retailer
+Entity: Electronics, Context: 2016: 1st Consumer Electronics Company to be listed
+Entity: appliances, Context: ✓ Increasing smart appliances
+Entity: Electronics, Context: 1.673.57Overall Consumer Electronics Industry Organised ShareOrganised Sector to Grow Faster than Overall Consumer Electronics Retail Industry
+Entity: Electronics, Context: 1.673.57Overall Consumer Electronics Industry Organised ShareOrganised Sector to Grow Faster than Overall Consumer Electronics Retail Industry
+Entity: Electronics, Context: Consumer  Electronics  Retail  and
+Entity: Electronics, Context: Electronics  Retail .
+Entity: electronics, Context: consumer  electronics  product
+Entity: Electronics, Context: Durables  and Electronics
+Entity: Electronics, Context: ✓Worked  with  LG Electronics
+CUSTOMER_SEGMENT:
+Entity: customers, Context: prices to customers
+Entity: customers, Context: ▪ Aditya Suraksha – Allows customers to
+Entity: customers, Context: customers
+AFTER_SALES:
+Entity: warranty, Context: enjoy an extended warranty
+SUPPLY_CHAIN:
+Entity: inventory management, Context: ▪ Efficient inventory management
+AFFORDABILITY:
+Entity: loyalty programs, Context: customer loyalty programs
+Entity: financing options, Context: ✓ Increasing financing options and no cost
+"""
+]
